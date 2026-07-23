@@ -112,7 +112,7 @@ npx expo start --web
 
 Open `http://localhost:8081` in your browser.
 
-### 📱 Mobile Mode (Expo Go)
+### Mobile Mode (Expo Go)
 
 1. Start the Metro bundler:
    ```bash
